@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _02SikidomokTerulete
 {
@@ -30,6 +31,21 @@ namespace _02SikidomokTerulete
 
             //hogyan lehetne ezt profibban elvégezni???
             //mi van ha 300 síkidom területét összeadni?
+
+
+            var planes = new List<IPlane>();
+
+            planes.Add(square);
+            planes.Add(circle);
+            planes.Add(triangle);
+
+            var sum = 0;
+            foreach (var plane in planes)
+            {
+                sum += plane.Area();
+            }
+
+            Console.WriteLine($"A területek összege: {sum}");
 
             Console.WriteLine($"A területek összege: {areasum}");
 
