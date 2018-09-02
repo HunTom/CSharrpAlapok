@@ -1,0 +1,11 @@
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.deps.json
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.runtimeconfig.json
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.runtimeconfig.dev.json
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.dll
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\bin\Debug\netcoreapp2.0\02SikidomokTerulete.pdb
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.csprojAssemblyReference.cache
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.csproj.CoreCompileInputs.cache
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.AssemblyInfoInputs.cache
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.AssemblyInfo.cs
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.dll
+E:\C_Sharp\Alapok\02Nap\CSharrpAlapok\02SikidomokTerulete\obj\Debug\netcoreapp2.0\02SikidomokTerulete.pdb
