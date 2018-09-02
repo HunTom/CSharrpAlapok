@@ -31,6 +31,8 @@ namespace _02SikidomokTerulete
             //hogyan lehetne ezt profibban elvégezni???
             //mi van ha 300 síkidom területét összeadni?
 
+            Console.WriteLine($"A területek összege: {areasum}");
+
             Console.ReadLine();
 
         }
